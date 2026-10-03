@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://vincentkipleting-hash.github.io/Kipleting-and-Company-advocates/sitemap.xml
